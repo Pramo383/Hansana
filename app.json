@@ -14,7 +14,7 @@
     },
     "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "mongodb+srv://javolef128:kdHmlVfHglwEoExh@pramodb.nefxrcd.mongodb.net/"
         }
      ],
   "stack": "heroku-24"
